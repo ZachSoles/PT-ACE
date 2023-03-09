@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Data Stored on Device
-    description                           : Data is stored on iPhone, and collected or sold at all.
+    description                           : Data is stored on iPhone, and not collected at all.
     fontawesome_icon_name                 : lock
 
 
